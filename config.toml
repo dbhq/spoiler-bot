@@ -1,0 +1,12 @@
+# Discord API token
+token = ""
+
+# Client ID of the bot
+client_id = ""
+
+# Name
+bot_name = "Spoiler Bot"
+
+# accent color for embed 
+# eg "00ffff"
+embed_color = "01ffe1"
